@@ -4,12 +4,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a document resource directory for Chinese elementary school exam/test materials (试卷). It currently contains PDF files — no source code, build system, or test suite.
+This directory contains research reports (Chinese elementary school exam materials, regional economic/vocational education surveys) and Python scripts for generating exam papers and reports. No build system or test suite.
 
 ## Contents
 
-- `新pep二年级下册阶段复习二（含听力）.pdf` — PEP Grade 2 (second semester) stage review exam with listening section
-- `images_to_pdf.pdf` — PDF generated from images
+- `generate_exams.py` — script for generating exam papers
+- `generate_report.py` — script for generating reports
+- `西安市公办职业高中调研报告.docx` — research report on Xi'an public vocational high schools
+- `杞县特色县域经济调研分析报告.md` — Qixian county characteristic economy research report (Markdown)
+- `杞县特色县域经济调研分析报告.docx` — same report in Word format
 
 ## Working with PDFs
 
