@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf _shots _shoot.py _inspect.py _contrast.py _verify_colors.py _verify_bundle.py _check_css.py _inline.py)",
+      "Bash(rm -rf D:/temp_shots)"
+    ]
+  }
+}
